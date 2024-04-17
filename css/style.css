@@ -27,6 +27,14 @@ main{
 }
 main p{
     font-size: 15px;
+
+}
+article{
+    display: flex;
+    justify-content: space-evenly;
+}
+article a{
+color: white;
 }
 footer{
     background-color: #322838;
